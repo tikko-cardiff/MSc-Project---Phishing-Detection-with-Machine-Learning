@@ -11,4 +11,4 @@ Natural Language Processing was explored in the extraction of feature from the t
 5. K-Nearest Neighbor
 6. Adaptive Boosting
 7. XGBoost
-8. Neural Network
+
