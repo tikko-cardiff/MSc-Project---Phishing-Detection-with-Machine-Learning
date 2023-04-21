@@ -1,4 +1,4 @@
-# MSc Project - Improving Phishing Detection
+# MSc Project -  Phishing Detection with Machine Learning
 Improving Phishing Techniques with Machine Learning
 The aim of this project is to improve phishing detection and classfification with machine learning techniques. The study will focus on the use of textual data for model training and gain insight into how textual data is processed for the machine to perform classification.
 
